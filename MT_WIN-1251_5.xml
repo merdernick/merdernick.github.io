@@ -8,9 +8,9 @@
 			<currency id="RUR"/>
 		</currencies>
 		<categories>
-			<category id="1111">Ðåêëàìà</category>
-			<category id="2222" parentId="1111">ÄÑÊ</category>
-			<category id="3333" parentId="1111">ÔÑÊ</category>
+			<category id="1111">Реклама</category>
+			<category id="2222" parentId="1111">ДСК</category>
+			<category id="3333" parentId="1111">ФСК</category>
 		</categories>
 		<offers>
 			<offer id="1" type="vendor.model" available="true">
