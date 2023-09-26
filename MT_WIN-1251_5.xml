@@ -45,7 +45,7 @@
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="3" type="vendor.model" available="true">
-				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
+				<url>https://www.dsk1.ru/1-donskoj</url>
 				<price>4930000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
@@ -136,7 +136,7 @@
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="9" type="vendor.model" available="true">
-				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
+				<url>https://www.dsk1.ru/1-donskoj</url>
 				<price>4930000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
@@ -227,7 +227,7 @@
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="17" type="vendor.model" available="true">
-				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
+				<url>shttps://www.dsk1.ru/1-donskoj</url>
 				<price>4930000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
