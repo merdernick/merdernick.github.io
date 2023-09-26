@@ -8,9 +8,9 @@
 			<currency id="RUR"/>
 		</currencies>
 		<categories>
-			<category id="1111">Реклама</category>
-			<category id="2222" parentId="1111">ДСК</category>
-			<category id="3333" parentId="1111">ФСК</category>
+			<category id="1111">ГђГҐГЄГ«Г Г¬Г </category>
+			<category id="2222" parentId="1111">Г„Г‘ГЉ</category>
+			<category id="3333" parentId="1111">Г”Г‘ГЉ</category>
 		</categories>
 		<offers>
 			<offer id="1" type="vendor.model" available="true">
@@ -22,12 +22,12 @@
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
 				<typePrefix> </typePrefix>
-				<model>1-й Шереметьевский</model>
-				<description>Подрезково, всего 6 минут пешком до одноименной станции ж/д и открывшейся станции МЦД-3</description>
+				<model>1-Р№ РЁРµСЂРµРјРµС‚СЊРµРІСЃРєРёР№</model>
+				<description>РџРѕРґСЂРµР·РєРѕРІРѕ, РІСЃРµРіРѕ 6 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РѕРґРЅРѕРёРјРµРЅРЅРѕР№ СЃС‚Р°РЅС†РёРё Р¶/Рґ Рё РѕС‚РєСЂС‹РІС€РµР№СЃСЏ СЃС‚Р°РЅС†РёРё РњР¦Р”-3</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="2" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/uznaa-bitca</url>
@@ -38,11 +38,11 @@
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Южная Битца°</model>
-				<description>3 км от Москвы между Варшавским и Симферопольским шоссе</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>Р®Р¶РЅР°СЏ Р‘РёС‚С†Р°В°</model>
+				<description>3 РєРј РѕС‚ РњРѕСЃРєРІС‹ РјРµР¶РґСѓ Р’Р°СЂС€Р°РІСЃРєРёРј Рё РЎРёРјС„РµСЂРѕРїРѕР»СЊСЃРєРёРј С€РѕСЃСЃРµ</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="3" type="vendor.model" available="true">
 				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
@@ -53,11 +53,11 @@
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>1-й Донской</model>
-				<description>7 км от МКАД по трассе М-4 Дон. В нем сочетаются все плюсы комфортной городской среды и природного окружения.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р”РѕРЅСЃРєРѕР№</model>
+				<description>7 РєРј РѕС‚ РњРљРђР” РїРѕ С‚СЂР°СЃСЃРµ Рњ-4 Р”РѕРЅ. Р’ РЅРµРј СЃРѕС‡РµС‚Р°СЋС‚СЃСЏ РІСЃРµ РїР»СЋСЃС‹ РєРѕРјС„РѕСЂС‚РЅРѕР№ РіРѕСЂРѕРґСЃРєРѕР№ СЃСЂРµРґС‹ Рё РїСЂРёСЂРѕРґРЅРѕРіРѕ РѕРєСЂСѓР¶РµРЅРёСЏ.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="4" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-uzhnyj</url>
@@ -68,11 +68,11 @@
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>1-й Южный</model>
-				<description>1 км от МКАД. Расположение участка вдохновило авторов проекта создать здесь место, где современная городская среда встречается с природой.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р®Р¶РЅС‹Р№</model>
+				<description>1 РєРј РѕС‚ РњРљРђР”. Р Р°СЃРїРѕР»РѕР¶РµРЅРёРµ СѓС‡Р°СЃС‚РєР° РІРґРѕС…РЅРѕРІРёР»Рѕ Р°РІС‚РѕСЂРѕРІ РїСЂРѕРµРєС‚Р° СЃРѕР·РґР°С‚СЊ Р·РґРµСЃСЊ РјРµСЃС‚Рѕ, РіРґРµ СЃРѕРІСЂРµРјРµРЅРЅР°СЏ РіРѕСЂРѕРґСЃРєР°СЏ СЃСЂРµРґР° РІСЃС‚СЂРµС‡Р°РµС‚СЃСЏ СЃ РїСЂРёСЂРѕРґРѕР№.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="5" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-lermontovskij</url>
@@ -83,11 +83,11 @@
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>1-й Лермонтовский</model>
-				<description>Люберцы, 15 минут пешком до МЦД3. Все, от удобных продуманных планировок до социальной инфраструктуры пронизано гармонией и комфортом и вниманием ко всем пожеланиям.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р›РµСЂРјРѕРЅС‚РѕРІСЃРєРёР№</model>
+				<description>Р›СЋР±РµСЂС†С‹, 15 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РњР¦Р”3. Р’СЃРµ, РѕС‚ СѓРґРѕР±РЅС‹С… РїСЂРѕРґСѓРјР°РЅРЅС‹С… РїР»Р°РЅРёСЂРѕРІРѕРє РґРѕ СЃРѕС†РёР°Р»СЊРЅРѕР№ РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂС‹ РїСЂРѕРЅРёР·Р°РЅРѕ РіР°СЂРјРѕРЅРёРµР№ Рё РєРѕРјС„РѕСЂС‚РѕРј Рё РІРЅРёРјР°РЅРёРµРј РєРѕ РІСЃРµРј РїРѕР¶РµР»Р°РЅРёСЏРј.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="6" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-leningradskij</url>
@@ -98,191 +98,193 @@
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>1-й Ленинградский</model>
-				<description>15 минут пешком до МЦД "Молжаниново". Жилой комплекс класса комфорт плюс, расположившийся на севере Москвы по Ленинградскому шоссе.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р›РµРЅРёРЅРіСЂР°РґСЃРєРёР№</model>
+				<description>15 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РњР¦Р” "РњРѕР»Р¶Р°РЅРёРЅРѕРІРѕ". Р–РёР»РѕР№ РєРѕРјРїР»РµРєСЃ РєР»Р°СЃСЃР° РєРѕРјС„РѕСЂС‚ РїР»СЋСЃ, СЂР°СЃРїРѕР»РѕР¶РёРІС€РёР№СЃСЏ РЅР° СЃРµРІРµСЂРµ РњРѕСЃРєРІС‹ РїРѕ Р›РµРЅРёРЅРіСЂР°РґСЃРєРѕРјСѓ С€РѕСЃСЃРµ.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="7" type="vendor.model" available="true">
-				<url>https://fsk.ru/zhavoronki-club</url>
-				<price>6110000</price>
+				<url>https://www.dsk1.ru/1-sheremetevskij</url>
+				<price>5560000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64551724693ef_2c7d51198b6e33bd6c76d0d35a202e5d.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64f5e1ec67cf8_7ee058f30e4829f8a4af57c49d5f2303.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Жаворонки Клаб</model>
-				<description>23 км от МКАД по Минскому шоссе. Концепция комплекса – «жить в комфорте, отдыхая и играя».</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<typePrefix> </typePrefix>
+				<model>1-Р№ РЁРµСЂРµРјРµС‚СЊРµРІСЃРєРёР№</model>
+				<description>РџРѕРґСЂРµР·РєРѕРІРѕ, РІСЃРµРіРѕ 6 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РѕРґРЅРѕРёРјРµРЅРЅРѕР№ СЃС‚Р°РЅС†РёРё Р¶/Рґ Рё РѕС‚РєСЂС‹РІС€РµР№СЃСЏ СЃС‚Р°РЅС†РёРё РњР¦Р”-3</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="8" type="vendor.model" available="true">
-				<url>https://fsk.ru/park-aprel</url>
-				<price>5570000</price>
+				<url>https://www.dsk1.ru/uznaa-bitca</url>
+				<price>5890000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/639304f15e70f_461858de0b4dd5ecf4c18e8205578062.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/60b63267a2103_312af0d810540cd3da2a5566c388498b.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Парк Апрель</model>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>Р®Р¶РЅР°СЏ Р‘РёС‚С†Р°В°</model>
+				<description>3 РєРј РѕС‚ РњРѕСЃРєРІС‹ РјРµР¶РґСѓ Р’Р°СЂС€Р°РІСЃРєРёРј Рё РЎРёРјС„РµСЂРѕРїРѕР»СЊСЃРєРёРј С€РѕСЃСЃРµ</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<description>20 минут от Москвы по Киевскому шоссе. Закрытые дворы с ландшафтным дизайном и развитая инфраструктура,муниципальная школа и детский сад.</description>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="9" type="vendor.model" available="true">
-				<url>https://fsk.ru/dvizhenie-govorovo</url>
-				<price>5940000</price>
+				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
+				<price>4930000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62f4e9b2dbeb7_7d8f1de45b261a6b6fca44754c1dc6cc.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/6425530b6cb27_696fec90695765b7d8b8c9d5d93b9aef.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Движение. Говорово</model>
-				<description>Метро Говорово, 25 минут пешком. Новый комплекс на юго-западе Москвы.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р”РѕРЅСЃРєРѕР№</model>
+				<description>7 РєРј РѕС‚ РњРљРђР” РїРѕ С‚СЂР°СЃСЃРµ Рњ-4 Р”РѕРЅ. Р’ РЅРµРј СЃРѕС‡РµС‚Р°СЋС‚СЃСЏ РІСЃРµ РїР»СЋСЃС‹ РєРѕРјС„РѕСЂС‚РЅРѕР№ РіРѕСЂРѕРґСЃРєРѕР№ СЃСЂРµРґС‹ Рё РїСЂРёСЂРѕРґРЅРѕРіРѕ РѕРєСЂСѓР¶РµРЅРёСЏ.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="10" type="vendor.model" available="true">
-				<url>https://fsk.ru/rimskiy</url>
-				<price>5760000</price>
+				<url>https://www.dsk1.ru/1-uzhnyj</url>
+				<price>5430000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/6363d601a156c_dad23aeaa76cebcb50d65f0089c7bb08.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64232c2e8684c_84d7c0bbe9b1ca929369ce7131cb23d3.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Римский</model>
-				<description>Пос. Развилка. Уникальный квартал с изящными фасадами в стиле классического пригорода по мотивам итальянской архитектуры.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р®Р¶РЅС‹Р№</model>
+				<description>1 РєРј РѕС‚ РњРљРђР”. Р Р°СЃРїРѕР»РѕР¶РµРЅРёРµ СѓС‡Р°СЃС‚РєР° РІРґРѕС…РЅРѕРІРёР»Рѕ Р°РІС‚РѕСЂРѕРІ РїСЂРѕРµРєС‚Р° СЃРѕР·РґР°С‚СЊ Р·РґРµСЃСЊ РјРµСЃС‚Рѕ, РіРґРµ СЃРѕРІСЂРµРјРµРЅРЅР°СЏ РіРѕСЂРѕРґСЃРєР°СЏ СЃСЂРµРґР° РІСЃС‚СЂРµС‡Р°РµС‚СЃСЏ СЃ РїСЂРёСЂРѕРґРѕР№.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="11" type="vendor.model" available="true">
-				<url>https://fsk.ru/datskij-kvartal</url>
-				<price>6360000</price>
+				<url>https://www.dsk1.ru/1-lermontovskij</url>
+				<price>5920000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62617be02c60e_a2dbfe0d90054c91f8a24e100b3da2dc.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/616714ef0bf44_ae8e7625458fd18bc18974cf12859e49.png</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Датский квартал</model>
-				<description>Метро Бибирево. Красота, удобство, спокойствие, близость к культурным и экономическим ресурсам мегаполиса и соседство с зеленым массивом.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р›РµСЂРјРѕРЅС‚РѕРІСЃРєРёР№</model>
+				<description>Р›СЋР±РµСЂС†С‹, 15 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РњР¦Р”3. Р’СЃРµ, РѕС‚ СѓРґРѕР±РЅС‹С… РїСЂРѕРґСѓРјР°РЅРЅС‹С… РїР»Р°РЅРёСЂРѕРІРѕРє РґРѕ СЃРѕС†РёР°Р»СЊРЅРѕР№ РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂС‹ РїСЂРѕРЅРёР·Р°РЅРѕ РіР°СЂРјРѕРЅРёРµР№ Рё РєРѕРјС„РѕСЂС‚РѕРј Рё РІРЅРёРјР°РЅРёРµРј РєРѕ РІСЃРµРј РїРѕР¶РµР»Р°РЅРёСЏРј.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="12" type="vendor.model" available="true">
-				<url>https://fsk.ru/skandinavskiy</url>
-				<price>8010000</price>
+				<url>https://www.dsk1.ru/1-leningradskij</url>
+				<price>6280000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62617afc676e2_2692629572ab159acc67a07c0e383dbe.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/61520ff93e58e_c5fd11201f84ea674e8f1ea5123623c0.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Скандинавский</model>
-				<description>Метро Медведково. Уникальный проект с авторской архитектурой в скандинавском стиле.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р›РµРЅРёРЅРіСЂР°РґСЃРєРёР№</model>
+				<description>15 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РњР¦Р” "РњРѕР»Р¶Р°РЅРёРЅРѕРІРѕ". Р–РёР»РѕР№ РєРѕРјРїР»РµРєСЃ РєР»Р°СЃСЃР° РєРѕРјС„РѕСЂС‚ РїР»СЋСЃ, СЂР°СЃРїРѕР»РѕР¶РёРІС€РёР№СЃСЏ РЅР° СЃРµРІРµСЂРµ РњРѕСЃРєРІС‹ РїРѕ Р›РµРЅРёРЅРіСЂР°РґСЃРєРѕРјСѓ С€РѕСЃСЃРµ.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="13" type="vendor.model" available="true">
-				<url>https://fsk.ru/park-aprel</url>
-				<price>5520000</price>
+				<url>https://www.dsk1.ru/1-sheremetevskij</url>
+				<price>5560000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/639304f15e70f_461858de0b4dd5ecf4c18e8205578062.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64f5e1ec67cf8_7ee058f30e4829f8a4af57c49d5f2303.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Парк Апрель</model>
-				<description>20 минут от Москвы по Киевскому шоссе, окружен первозданным лесом.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<typePrefix> </typePrefix>
+				<model>1-Р№ РЁРµСЂРµРјРµС‚СЊРµРІСЃРєРёР№</model>
+				<description>РџРѕРґСЂРµР·РєРѕРІРѕ, РІСЃРµРіРѕ 6 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РѕРґРЅРѕРёРјРµРЅРЅРѕР№ СЃС‚Р°РЅС†РёРё Р¶/Рґ Рё РѕС‚РєСЂС‹РІС€РµР№СЃСЏ СЃС‚Р°РЅС†РёРё РњР¦Р”-3</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="15" type="vendor.model" available="true">
-				<url>https://fsk.ru/nastroenie</url>
-				<price>10980000</price>
-				<currencyId>RUR</currencyId>
-				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/61699046235a4_454c425750a78ea942e720e0558353c2.png</picture>
-				<store>true</store>
-				<pickup>true</pickup>
-				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Настроение</model>
-				<description>Вид на парк «Лосиный остров», вход в который начинается всего в 400 метрах от дома.</description>
-				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
-			</offer>
-			<offer id="17" type="vendor.model" available="true">
-				<url>https://fsk.ru/zhavoronki-club</url>
-				<price>6340000</price>
+				<url>https://www.dsk1.ru/uznaa-bitca</url>
+				<price>5890000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6504268be0ec2_59912bdd4e03a590555b1390c3a60898.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/60b63267a2103_312af0d810540cd3da2a5566c388498b.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Жаворонки Клаб</model>
-				<description>Комфорт-класс на берегу реки Незнайка в 23 км от МКАД по Минскому шоссе.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>Р®Р¶РЅР°СЏ Р‘РёС‚С†Р°В°</model>
+				<description>3 РєРј РѕС‚ РњРѕСЃРєРІС‹ РјРµР¶РґСѓ Р’Р°СЂС€Р°РІСЃРєРёРј Рё РЎРёРјС„РµСЂРѕРїРѕР»СЊСЃРєРёРј С€РѕСЃСЃРµ</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
+			</offer>
+			<offer id="17" type="vendor.model" available="true">
+				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
+				<price>4930000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/6425530b6cb27_696fec90695765b7d8b8c9d5d93b9aef.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р”РѕРЅСЃРєРѕР№</model>
+				<description>7 РєРј РѕС‚ РњРљРђР” РїРѕ С‚СЂР°СЃСЃРµ Рњ-4 Р”РѕРЅ. Р’ РЅРµРј СЃРѕС‡РµС‚Р°СЋС‚СЃСЏ РІСЃРµ РїР»СЋСЃС‹ РєРѕРјС„РѕСЂС‚РЅРѕР№ РіРѕСЂРѕРґСЃРєРѕР№ СЃСЂРµРґС‹ Рё РїСЂРёСЂРѕРґРЅРѕРіРѕ РѕРєСЂСѓР¶РµРЅРёСЏ.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="18" type="vendor.model" available="true">
-				<url>https://fsk.ru/rotterdam</url>
-				<price>11496000</price>
+				<url>https://www.dsk1.ru/1-uzhnyj</url>
+				<price>5430000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/62b5b50844792_c702c0d82fae4bfec6e89da9cbe30b44.jpg</picture>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64232c2e8684c_84d7c0bbe9b1ca929369ce7131cb23d3.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Rotterdam</model>
-				<description>Европейский стиль жизни, заложенный в новый проект ФСК на Нагатинской набережной.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р®Р¶РЅС‹Р№</model>
+				<description>1 РєРј РѕС‚ РњРљРђР”. Р Р°СЃРїРѕР»РѕР¶РµРЅРёРµ СѓС‡Р°СЃС‚РєР° РІРґРѕС…РЅРѕРІРёР»Рѕ Р°РІС‚РѕСЂРѕРІ РїСЂРѕРµРєС‚Р° СЃРѕР·РґР°С‚СЊ Р·РґРµСЃСЊ РјРµСЃС‚Рѕ, РіРґРµ СЃРѕРІСЂРµРјРµРЅРЅР°СЏ РіРѕСЂРѕРґСЃРєР°СЏ СЃСЂРµРґР° РІСЃС‚СЂРµС‡Р°РµС‚СЃСЏ СЃ РїСЂРёСЂРѕРґРѕР№.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="19" type="vendor.model" available="true">
-				<url>https://fsk.ru/arhitektor</url>
-				<price>15000000</price>
+				<url>https://www.dsk1.ru/1-lermontovskij</url>
+				<price>5920000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6169920bab15b_0f442c2587aba09d0d2c07b33d81eb74.png</picture>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/616714ef0bf44_ae8e7625458fd18bc18974cf12859e49.png</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Архитектор</model>
-				<description>Метро Калужская. Обширная инфраструктура: коворкинг, лаундж-зона, оборудованная детская комната, зона для встречи гостей.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р›РµСЂРјРѕРЅС‚РѕРІСЃРєРёР№</model>
+				<description>Р›СЋР±РµСЂС†С‹, 15 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РњР¦Р”3. Р’СЃРµ, РѕС‚ СѓРґРѕР±РЅС‹С… РїСЂРѕРґСѓРјР°РЅРЅС‹С… РїР»Р°РЅРёСЂРѕРІРѕРє РґРѕ СЃРѕС†РёР°Р»СЊРЅРѕР№ РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂС‹ РїСЂРѕРЅРёР·Р°РЅРѕ РіР°СЂРјРѕРЅРёРµР№ Рё РєРѕРјС„РѕСЂС‚РѕРј Рё РІРЅРёРјР°РЅРёРµРј РєРѕ РІСЃРµРј РїРѕР¶РµР»Р°РЅРёСЏРј.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 			<offer id="20" type="vendor.model" available="true">
-				<url>https://fsk.ru/arhitektor</url>
-				<price>11150000</price>
+				<url>https://www.dsk1.ru/1-leningradskij</url>
+				<price>6280000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/61aa2475631a2_3e5a8aba5bd697a323e56fbfce0be550.jpg</picture>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/61520ff93e58e_c5fd11201f84ea674e8f1ea5123623c0.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
-				<typePrefix>Квартира</typePrefix>
-				<model>Sky Garden</model>
-				<description>Метро Тушинская. Собственный парк площадью 3,5 га с центральной площадью, декоративным прудом.</description>
+				<typePrefix>РљРІР°СЂС‚РёСЂР°</typePrefix>
+				<model>1-Р№ Р›РµРЅРёРЅРіСЂР°РґСЃРєРёР№</model>
+				<description>15 РјРёРЅСѓС‚ РїРµС€РєРѕРј РґРѕ РњР¦Р” "РњРѕР»Р¶Р°РЅРёРЅРѕРІРѕ". Р–РёР»РѕР№ РєРѕРјРїР»РµРєСЃ РєР»Р°СЃСЃР° РєРѕРјС„РѕСЂС‚ РїР»СЋСЃ, СЂР°СЃРїРѕР»РѕР¶РёРІС€РёР№СЃСЏ РЅР° СЃРµРІРµСЂРµ РњРѕСЃРєРІС‹ РїРѕ Р›РµРЅРёРЅРіСЂР°РґСЃРєРѕРјСѓ С€РѕСЃСЃРµ.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
 			</offer>
 		</offers>
 	</shop>
