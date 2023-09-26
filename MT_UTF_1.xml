@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<torg_price date="2023-09-25 16:34">
+	<shop>
+		<name>FSK</name>
+		<company>FSK</company>
+		<url>https://www.dsk1.ru/</url>
+		<currencies>
+			<currency id="RUR"/>
+		</currencies>
+		<categories>
+			<category id="1111">Реклама</category>
+			<category id="2222" parentId="1111">ДСК</category>
+			<category id="3333" parentId="1111">ФСК</category>
+		</categories>
+		<offers>
+			<offer id="1" type="vendor.model" available="true">
+				<url>https://fsk.ru/sydney-prime</url>
+				<price>от 39 860 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/641959ec48ef5_b338ba2b174ac69b83f6e0bd133e9fb9.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Sydney Prime</model>
+				<description>На первой береговой линии Москвы-реки, на второй улице от ЦАО и в десяти минутах езды от Москва-Сити.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="2" type="vendor.model" available="true">
+				<url>https://fsk.ru/sydney-city</url>
+				<price>от 18 230 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/616993a36814c_a0d4bf87c096de61370ca273ede526cd.png</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Sydney City</model>
+				<description>Проект премиум-класса на Шелепихинской набережной. Первый жилой квартал в концепции well-being в Москве.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3" type="vendor.model" available="true">
+				<url>https://fsk.ru/apart-otel-dvizhenie</url>
+				<price>от 10 530 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/608011181afd2_9c87fe298e381fd231f3722b9653e357.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Движение. Тушино</model>
+				<description>Апарт-отель Discovery – инвестиционный продукт, реализуемый компанией ФСК. Каждый номер в апарт-отеле принадлежит частному собственнику.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4" type="vendor.model" available="true">
+				<url>https://fsk.ru/rihard</url>
+				<price>от 23 180 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64232c2e8684c_84d7c0bbe9b1ca929369ce7131cb23d3.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Рихард</model>
+				<description>Жилой комплекс бизнес-класса в престижном Хорошёвском районе. Дом находится на улице Зорге в окружении исторической сталинской застройки.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="5" type="vendor.model" available="true">
+				<url>https://fsk.ru/saburovo-club</url>
+				<price>от 21 430 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/649e9cb908039_68bacc6f5d7601737393d5d764272991.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Сабурово Клаб</model>
+				<description>10 км от Москвы по Пятницкому шоссе. Дома выполнены в современном стиле, с элементами скандинавской архитектуры.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="6" type="vendor.model" available="true">
+				<url>https://fsk.ru/the-lake</url>
+				<price>от 21 210 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/637233543c708_15e139c342191bf24fa5dc82a5f209ed.png</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>The Lake</model>
+				<description>Ботанический сад - 11 минут пешком. Дом заинтересует ценителей тишины и уединения, но которым важно оставаться в центре событий. </description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="7" type="vendor.model" available="true">
+				<url>https://fsk.ru/zhavoronki-club</url>
+				<price>от 6 110 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64551724693ef_2c7d51198b6e33bd6c76d0d35a202e5d.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Жаворонки Клаб</model>
+				<description>23 км от МКАД по Минскому шоссе. Концепция комплекса – «жить в комфорте, отдыхая и играя».</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="8" type="vendor.model" available="true">
+				<url>https://fsk.ru/park-aprel</url>
+				<price>от 5 570 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/639304f15e70f_461858de0b4dd5ecf4c18e8205578062.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Парк Апрель</model>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<description>20 минут от Москвы по Киевскому шоссе. Закрытые дворы с ландшафтным дизайном и развитая инфраструктура,муниципальная школа и детский сад.</description>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="9" type="vendor.model" available="true">
+				<url>https://fsk.ru/dvizhenie-govorovo</url>
+				<price>от 5 940 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62f4e9b2dbeb7_7d8f1de45b261a6b6fca44754c1dc6cc.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Движение. Говорово</model>
+				<description>Метро Говорово, 25 минут пешком. Новый комплекс на юго-западе Москвы.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="10" type="vendor.model" available="true">
+				<url>https://fsk.ru/rimskiy</url>
+				<price>от 5 760 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/6363d601a156c_dad23aeaa76cebcb50d65f0089c7bb08.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Римский</model>
+				<description>Пос. Развилка. Уникальный квартал с изящными фасадами в стиле классического пригорода по мотивам итальянской архитектуры.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="11" type="vendor.model" available="true">
+				<url>https://fsk.ru/datskij-kvartal</url>
+				<price>от 6 360 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62617be02c60e_a2dbfe0d90054c91f8a24e100b3da2dc.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Датский квартал</model>
+				<description>Метро Бибирево. Красота, удобство, спокойствие, близость к культурным и экономическим ресурсам мегаполиса и соседство с зеленым массивом.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="12" type="vendor.model" available="true">
+				<url>https://fsk.ru/skandinavskiy</url>
+				<price>от 8 010 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62617afc676e2_2692629572ab159acc67a07c0e383dbe.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Скандинавский</model>
+				<description>Метро Медведково. Уникальный проект с авторской архитектурой в скандинавском стиле.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="13" type="vendor.model" available="true">
+				<url>https://fsk.ru/park-aprel</url>
+				<price>от 5 520 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/639304f15e70f_461858de0b4dd5ecf4c18e8205578062.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Парк Апрель</model>
+				<description>20 минут от Москвы по Киевскому шоссе, окружен первозданным лесом.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="15" type="vendor.model" available="true">
+				<url>https://fsk.ru/nastroenie</url>
+				<price>от 10 980 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3333</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/61699046235a4_454c425750a78ea942e720e0558353c2.png</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Настроение</model>
+				<description>Вид на парк «Лосиный остров», вход в который начинается всего в 400 метрах от дома.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="17" type="vendor.model" available="true">
+				<url>https://fsk.ru/zhavoronki-club</url>
+				<price>от 6 340 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2222</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6504268be0ec2_59912bdd4e03a590555b1390c3a60898.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Жаворонки Клаб</model>
+				<description>Комфорт-класс на берегу реки Незнайка в 23 км от МКАД по Минскому шоссе.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="18" type="vendor.model" available="true">
+				<url>https://fsk.ru/rotterdam</url>
+				<price>от 11 496 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3333</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/62b5b50844792_c702c0d82fae4bfec6e89da9cbe30b44.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Rotterdam</model>
+				<description>Европейский стиль жизни, заложенный в новый проект ФСК на Нагатинской набережной.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="19" type="vendor.model" available="true">
+				<url>https://fsk.ru/arhitektor</url>
+				<price>от 15 000 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3333</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6169920bab15b_0f442c2587aba09d0d2c07b33d81eb74.png</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Архитектор</model>
+				<description>Метро Калужская. Обширная инфраструктура: коворкинг, лаундж-зона, оборудованная детская комната, зона для встречи гостей.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="20" type="vendor.model" available="true">
+				<url>https://fsk.ru/arhitektor</url>
+				<price>от 11 150 000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3333</categoryId>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/61aa2475631a2_3e5a8aba5bd697a323e56fbfce0be550.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<vendor>FSK</vendor>
+				<typePrefix>Квартира</typePrefix>
+				<model>Sky Garden</model>
+				<description>Метро Тушинская. Собственный парк площадью 3,5 га с центральной площадью, декоративным прудом.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+		</offers>
+	</shop>
+</torg_price>
