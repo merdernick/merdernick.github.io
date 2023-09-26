@@ -108,7 +108,7 @@
 				<url>https://www.dsk1.ru/1-sheremetevskij</url>
 				<price>5560000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64f5e1ec67cf8_7ee058f30e4829f8a4af57c49d5f2303.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -124,7 +124,7 @@
 				<url>https://www.dsk1.ru/uznaa-bitca</url>
 				<price>5890000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/60b63267a2103_312af0d810540cd3da2a5566c388498b.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -139,7 +139,7 @@
 				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
 				<price>4930000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/6425530b6cb27_696fec90695765b7d8b8c9d5d93b9aef.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -154,7 +154,7 @@
 				<url>https://www.dsk1.ru/1-uzhnyj</url>
 				<price>5430000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64232c2e8684c_84d7c0bbe9b1ca929369ce7131cb23d3.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -169,7 +169,7 @@
 				<url>https://www.dsk1.ru/1-lermontovskij</url>
 				<price>5920000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/616714ef0bf44_ae8e7625458fd18bc18974cf12859e49.png</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -184,7 +184,7 @@
 				<url>https://www.dsk1.ru/1-leningradskij</url>
 				<price>6280000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/61520ff93e58e_c5fd11201f84ea674e8f1ea5123623c0.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -199,7 +199,7 @@
 				<url>https://www.dsk1.ru/1-sheremetevskij</url>
 				<price>5560000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64f5e1ec67cf8_7ee058f30e4829f8a4af57c49d5f2303.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -215,7 +215,7 @@
 				<url>https://www.dsk1.ru/uznaa-bitca</url>
 				<price>5890000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/60b63267a2103_312af0d810540cd3da2a5566c388498b.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -230,7 +230,7 @@
 				<url>httpshttps://www.dsk1.ru/1-donskoj</url>
 				<price>4930000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/6425530b6cb27_696fec90695765b7d8b8c9d5d93b9aef.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -245,7 +245,7 @@
 				<url>https://www.dsk1.ru/1-uzhnyj</url>
 				<price>5430000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64232c2e8684c_84d7c0bbe9b1ca929369ce7131cb23d3.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -260,7 +260,7 @@
 				<url>https://www.dsk1.ru/1-lermontovskij</url>
 				<price>5920000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/616714ef0bf44_ae8e7625458fd18bc18974cf12859e49.png</picture>
 				<store>true</store>
 				<pickup>true</pickup>
@@ -275,7 +275,7 @@
 				<url>https://www.dsk1.ru/1-leningradskij</url>
 				<price>6280000</price>
 				<currencyId>RUR</currencyId>
-				<categoryId>2222</categoryId>
+				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/61520ff93e58e_c5fd11201f84ea674e8f1ea5123623c0.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
