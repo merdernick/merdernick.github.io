@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<torg_price date="2023-09-25 16:34">
+<torg_price date="2023-12-07 16:34">
 	<shop>
 		<name>FSK</name>
 		<company>FSK</company>
@@ -108,7 +108,7 @@
 				<price>6110000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/64551724693ef_2c7d51198b6e33bd6c76d0d35a202e5d.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6504268be0ec2_59912bdd4e03a590555b1390c3a60898.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
