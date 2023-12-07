@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<torg_price date="2023-09-25 16:34">
+<torg_price date="2023-12-07 16:34">
 	<shop>
 		<name>FSK</name>
 		<company>FSK</company>
@@ -34,7 +34,7 @@
 				<price>5890000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/60b63267a2103_312af0d810540cd3da2a5566c388498b.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/65293d23a8134_1062cf588fbccf2a8617f4b049f2a0b5.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -125,12 +125,12 @@
 				<price>5890000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/60b63267a2103_312af0d810540cd3da2a5566c388498b.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/65293d23a8134_1062cf588fbccf2a8617f4b049f2a0b5.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
 				<typePrefix>Квартира</typePrefix>
-				<model>Южная Битца°</model>
+				<model>Южная Битца</model>
 				<description>3 км от Москвы между Варшавским и Симферопольским шоссе</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
 				<country_of_origin>Россия</country_of_origin>
@@ -216,12 +216,12 @@
 				<price>5890000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/60b63267a2103_312af0d810540cd3da2a5566c388498b.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/65293d23a8134_1062cf588fbccf2a8617f4b049f2a0b5.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
 				<typePrefix>Квартира</typePrefix>
-				<model>Южная Битца°</model>
+				<model>Южная Битца</model>
 				<description>3 км от Москвы между Варшавским и Симферопольским шоссе</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
 				<country_of_origin>Россия</country_of_origin>
