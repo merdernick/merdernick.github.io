@@ -15,7 +15,7 @@
 		<offers>
 			<offer id="1" type="vendor.model" available="true">
 				<url>https://fsk.ru/sydney-prime</url>
-				<price>39860000</price>
+				<price>66340000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/641959ec48ef5_b338ba2b174ac69b83f6e0bd133e9fb9.jpg</picture>
@@ -30,7 +30,7 @@
 			</offer>
 			<offer id="2" type="vendor.model" available="true">
 				<url>https://fsk.ru/sydney-city</url>
-				<price>18230000</price>
+				<price>16550000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/616993a36814c_a0d4bf87c096de61370ca273ede526cd.png</picture>
@@ -45,7 +45,7 @@
 			</offer>
 			<offer id="3" type="vendor.model" available="true">
 				<url>https://fsk.ru/apart-otel-dvizhenie</url>
-				<price>10530000</price>
+				<price>10430000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/608011181afd2_9c87fe298e381fd231f3722b9653e357.jpg</picture>
@@ -60,7 +60,7 @@
 			</offer>
 			<offer id="4" type="vendor.model" available="true">
 				<url>https://fsk.ru/rihard</url>
-				<price>23180000</price>
+				<price>19740000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/61698fb8a173b_8b7d8eb646c344a97a157a1704063b89.png</picture>
@@ -75,7 +75,7 @@
 			</offer>
 			<offer id="5" type="vendor.model" available="true">
 				<url>https://fsk.ru/saburovo-club</url>
-				<price>21430000</price>
+				<price>24080000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/649e9cb908039_68bacc6f5d7601737393d5d764272991.jpg</picture>
@@ -90,7 +90,7 @@
 			</offer>
 			<offer id="6" type="vendor.model" available="true">
 				<url>https://fsk.ru/the-lake</url>
-				<price>21210000</price>
+				<price>20380000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/637233543c708_15e139c342191bf24fa5dc82a5f209ed.png</picture>
@@ -105,7 +105,7 @@
 			</offer>
 			<offer id="7" type="vendor.model" available="true">
 				<url>https://fsk.ru/zhavoronki-club</url>
-				<price>6110000</price>
+				<price>7420000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6504268be0ec2_59912bdd4e03a590555b1390c3a60898.jpg</picture>
@@ -120,7 +120,7 @@
 			</offer>
 			<offer id="8" type="vendor.model" available="true">
 				<url>https://fsk.ru/park-aprel</url>
-				<price>5570000</price>
+				<price>6130000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/639304f15e70f_461858de0b4dd5ecf4c18e8205578062.jpg</picture>
@@ -135,7 +135,7 @@
 			</offer>
 			<offer id="9" type="vendor.model" available="true">
 				<url>https://fsk.ru/dvizhenie-govorovo</url>
-				<price>5940000</price>
+				<price>5650000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62f4e9b2dbeb7_7d8f1de45b261a6b6fca44754c1dc6cc.jpg</picture>
@@ -150,7 +150,7 @@
 			</offer>
 			<offer id="10" type="vendor.model" available="true">
 				<url>https://fsk.ru/rimskiy</url>
-				<price>5760000</price>
+				<price>6320000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/6363d601a156c_dad23aeaa76cebcb50d65f0089c7bb08.jpg</picture>
@@ -165,7 +165,7 @@
 			</offer>
 			<offer id="11" type="vendor.model" available="true">
 				<url>https://fsk.ru/datskij-kvartal</url>
-				<price>6360000</price>
+				<price>7630000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62617be02c60e_a2dbfe0d90054c91f8a24e100b3da2dc.jpg</picture>
@@ -180,7 +180,7 @@
 			</offer>
 			<offer id="12" type="vendor.model" available="true">
 				<url>https://fsk.ru/skandinavskiy</url>
-				<price>8010000</price>
+				<price>7670000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/768/1024/ce/0/plain/production/62617afc676e2_2692629572ab159acc67a07c0e383dbe.jpg</picture>
@@ -195,7 +195,7 @@
 			</offer>
 			<offer id="13" type="vendor.model" available="true">
 				<url>https://fsk.ru/park-aprel</url>
-				<price>5520000</price>
+				<price>6130000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/639304f15e70f_461858de0b4dd5ecf4c18e8205578062.jpg</picture>
@@ -210,7 +210,7 @@
 			</offer>
 			<offer id="15" type="vendor.model" available="true">
 				<url>https://fsk.ru/nastroenie</url>
-				<price>10980000</price>
+				<price>10990000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/61699046235a4_454c425750a78ea942e720e0558353c2.png</picture>
@@ -225,7 +225,7 @@
 			</offer>
 			<offer id="17" type="vendor.model" available="true">
 				<url>https://fsk.ru/zhavoronki-club</url>
-				<price>6340000</price>
+				<price>7420000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6504268be0ec2_59912bdd4e03a590555b1390c3a60898.jpg</picture>
@@ -240,7 +240,7 @@
 			</offer>
 			<offer id="18" type="vendor.model" available="true">
 				<url>https://fsk.ru/rotterdam</url>
-				<price>11496000</price>
+				<price>17180000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/62b5b50844792_c702c0d82fae4bfec6e89da9cbe30b44.jpg</picture>
@@ -255,7 +255,7 @@
 			</offer>
 			<offer id="19" type="vendor.model" available="true">
 				<url>https://fsk.ru/arhitektor</url>
-				<price>15000000</price>
+				<price>18660000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/6169920bab15b_0f442c2587aba09d0d2c07b33d81eb74.png</picture>
@@ -269,8 +269,8 @@
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="20" type="vendor.model" available="true">
-				<url>https://fsk.ru/arhitektor</url>
-				<price>11150000</price>
+				<url>https://fsk.ru/skygarden</url>
+				<price>13040000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/392/520/ce/0/plain/production/61aa2475631a2_3e5a8aba5bd697a323e56fbfce0be550.jpg</picture>
