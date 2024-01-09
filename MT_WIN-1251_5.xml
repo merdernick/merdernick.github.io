@@ -14,39 +14,39 @@
 		</categories>
 		<offers>
 			<offer id="1" type="vendor.model" available="true">
-				<url>https://www.dsk1.ru/1-sheremetevskij</url>
-				<price>5560000</price>
+				<url>https://www.dsk1.ru/1-yasenevskij</url>
+				<price>7360000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578761399cf6_d998b857712b42b15cd1ddd1c4ba63a6.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/653928fd73404_bdf7f2843b46c9bf5e96b07c40ceaa54.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
 				<typePrefix>Квартира</typePrefix>
 				<typePrefix> </typePrefix>
-				<model>1-й Шереметьевский</model>
-				<description>Подрезково, всего 6 минут пешком до одноименной станции ж/д и открывшейся станции МЦД-3</description>
+				<model>1-й Ясеневский</model>
+				<description>в пешей доступности — метро, школа с 25-метровым бассейном и IT-кластером и 63 гектара Троицкого</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="2" type="vendor.model" available="true">
-				<url>https://www.dsk1.ru/uznaa-bitca</url>
-				<price>5890000</price>
+				<url>https://www.dsk1.ru/1-izmajlovskij</url>
+				<price>7530000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/658319322fa9a_3c3b2acb1db8f15be78c4b042631b7eb.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6540c1985e1c2_8a64ea7a1756fdf5993772ceeace6eb7.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
 				<typePrefix>Квартира</typePrefix>
-				<model>Южная Битца°</model>
-				<description>3 км от Москвы между Варшавским и Симферопольским шоссе</description>
+				<model>1-й Измайловский</model>
+				<description> «1-й Измайловский» – идеальное место для проживания, расположенное в восточной части Москвы в окружении 14 000 гектаров леса</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="3" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-donskoj</url>
-				<price>4930000</price>
+				<price>6180000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bcd12b5b0_28174f5a64e509230b7aedae51eeda63.jpg</picture>
@@ -61,7 +61,7 @@
 			</offer>
 			<offer id="4" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-uzhnyj</url>
-				<price>5430000</price>
+				<price>6730000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bd4c443d1_7c8c484106bd7bbaab72d5162b902fb0.jpg</picture>
@@ -76,7 +76,7 @@
 			</offer>
 			<offer id="5" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-lermontovskij</url>
-				<price>5920000</price>
+				<price>7040000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578764843a87_22a16fd1d2f8fac391df327b296e53e3.png</picture>
@@ -106,7 +106,7 @@
 			</offer>
 			<offer id="7" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-sheremetevskij</url>
-				<price>5560000</price>
+				<price>4980000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578761399cf6_d998b857712b42b15cd1ddd1c4ba63a6.png</picture>
@@ -137,7 +137,7 @@
 			</offer>
 			<offer id="9" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-donskoj</url>
-				<price>4930000</price>
+				<price>6180000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bcd12b5b0_28174f5a64e509230b7aedae51eeda63.jpg</picture>
@@ -152,7 +152,7 @@
 			</offer>
 			<offer id="10" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-uzhnyj</url>
-				<price>5430000</price>
+				<price>6730000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bd4c443d1_7c8c484106bd7bbaab72d5162b902fb0.jpg</picture>
@@ -167,7 +167,7 @@
 			</offer>
 			<offer id="11" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-lermontovskij</url>
-				<price>5920000</price>
+				<price>7040000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578764843a87_22a16fd1d2f8fac391df327b296e53e3.png</picture>
@@ -197,7 +197,7 @@
 			</offer>
 			<offer id="13" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-sheremetevskij</url>
-				<price>5560000</price>
+				<price>4980000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578761399cf6_d998b857712b42b15cd1ddd1c4ba63a6.png</picture>
@@ -228,7 +228,7 @@
 			</offer>
 			<offer id="17" type="vendor.model" available="true">
 				<url>shttps://www.dsk1.ru/1-donskoj</url>
-				<price>4930000</price>
+				<price>6180000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bcd12b5b0_28174f5a64e509230b7aedae51eeda63.jpg</picture>
@@ -243,7 +243,7 @@
 			</offer>
 			<offer id="18" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-uzhnyj</url>
-				<price>5430000</price>
+				<price>6730000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bd4c443d1_7c8c484106bd7bbaab72d5162b902fb0.jpg</picture>
@@ -258,7 +258,7 @@
 			</offer>
 			<offer id="19" type="vendor.model" available="true">
 				<url>https://www.dsk1.ru/1-lermontovskij</url>
-				<price>5920000</price>
+				<price>7040000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578764843a87_22a16fd1d2f8fac391df327b296e53e3.png</picture>
