@@ -34,7 +34,7 @@
 				<price>7530000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6540c1985e1c2_8a64ea7a1756fdf5993772ceeace6eb7.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e5b35a32201_6e16619218a377acb8ad3b579711420a.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -49,7 +49,7 @@
 				<price>6180000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bcd12b5b0_28174f5a64e509230b7aedae51eeda63.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e604e7a5049_667e55aa7d6fe70d6586cca9093e2ca5.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -64,7 +64,7 @@
 				<price>6730000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bd4c443d1_7c8c484106bd7bbaab72d5162b902fb0.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6615330fc0c84_020c554667cc6694407735bf4dd55d5c.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -79,7 +79,7 @@
 				<price>7040000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578764843a87_22a16fd1d2f8fac391df327b296e53e3.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e5b3dcb5509_1b9b4b04cabcd97c0d888b2752054074.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -94,7 +94,7 @@
 				<price>6280000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2222</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65787672ce8a3_b6ec6e406f362be491a90b6e2f75f990.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e735c7b6352_6d966a454d34ae20a8a41addbffbea64.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -109,7 +109,7 @@
 				<price>4980000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578761399cf6_d998b857712b42b15cd1ddd1c4ba63a6.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e585ae8ee2a_559ae01df8f8dcb2ffce0beb85a600a2.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -125,7 +125,7 @@
 				<price>5890000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/658319322fa9a_3c3b2acb1db8f15be78c4b042631b7eb.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e2046e88d5e_09c2953fb9f698e6baeb88dde93018f9.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -140,7 +140,7 @@
 				<price>6180000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bcd12b5b0_28174f5a64e509230b7aedae51eeda63.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e604e7a5049_667e55aa7d6fe70d6586cca9093e2ca5.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -151,8 +151,8 @@
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="10" type="vendor.model" available="true">
-				<url>https://www.dsk1.ru/1-uzhnyj</url>
-				<price>6730000</price>
+				<url>https://www.dsk1.ru/1-himkinskij</url>
+				<price>5410000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
 				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bd4c443d1_7c8c484106bd7bbaab72d5162b902fb0.jpg</picture>
@@ -160,8 +160,8 @@
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
 				<typePrefix>Квартира</typePrefix>
-				<model>1-й Южный</model>
-				<description>1 км от МКАД. Расположение участка вдохновило авторов проекта создать здесь место, где современная городская среда встречается с природой.</description>
+				<model>1-й Химкинский</model>
+				<description> Первый проект класса комфорт плюс, где удалось воссоздать атмосферу странствия по русскому Северу.</description>
 				<manufacturer_warranty>true</manufacturer_warranty>
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
@@ -170,7 +170,7 @@
 				<price>7040000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578764843a87_22a16fd1d2f8fac391df327b296e53e3.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e5b3dcb5509_1b9b4b04cabcd97c0d888b2752054074.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -185,7 +185,7 @@
 				<price>6280000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65787672ce8a3_b6ec6e406f362be491a90b6e2f75f990.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e735c7b6352_6d966a454d34ae20a8a41addbffbea64.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -200,7 +200,7 @@
 				<price>4980000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578761399cf6_d998b857712b42b15cd1ddd1c4ba63a6.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e585ae8ee2a_559ae01df8f8dcb2ffce0beb85a600a2.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -216,7 +216,7 @@
 				<price>5890000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bcd12b5b0_28174f5a64e509230b7aedae51eeda63.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e2046e88d5e_09c2953fb9f698e6baeb88dde93018f9.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -231,7 +231,7 @@
 				<price>6180000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bcd12b5b0_28174f5a64e509230b7aedae51eeda63.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e604e7a5049_667e55aa7d6fe70d6586cca9093e2ca5.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -246,7 +246,7 @@
 				<price>6730000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6582bd4c443d1_7c8c484106bd7bbaab72d5162b902fb0.jpg</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6615330fc0c84_020c554667cc6694407735bf4dd55d5c.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -261,7 +261,7 @@
 				<price>7040000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/6578764843a87_22a16fd1d2f8fac391df327b296e53e3.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e5b3dcb5509_1b9b4b04cabcd97c0d888b2752054074.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
@@ -276,7 +276,7 @@
 				<price>6280000</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3333</categoryId>
-				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65787672ce8a3_b6ec6e406f362be491a90b6e2f75f990.png</picture>
+				<picture>https://cdn.fsk.ru/rsz/fill/780/1040/ce/0/plain/production/65e735c7b6352_6d966a454d34ae20a8a41addbffbea64.jpg</picture>
 				<store>true</store>
 				<pickup>true</pickup>
 				<vendor>FSK</vendor>
